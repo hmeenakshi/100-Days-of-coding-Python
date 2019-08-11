@@ -13,3 +13,4 @@
 12. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.The rules in Gregorian calendar are as follows:a year is a leap year if its number is exactly divisible by 4 and is not exactly divisible by 100 a year is always a leap year if its number is exactly divisible by 400](day012.md)
 13. [Given three integers, print the least of them.](day013.md)
 14. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs"If the number is a multiple of both 3 and 5, it prints "JugsMugs".Otherwise, it prints the number.](day014.md)
+15. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number](day015.md)
