@@ -10,3 +10,4 @@
 9. [Given a three-digit number. Find the sum of its digits.](day009.md)
 10. [Given an integer, print "odd" if it's odd and print "even" otherwise.](day010.md)
 11. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](day011.md)
+12. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.The rules in Gregorian calendar are as follows:a year is a leap year if its number is exactly divisible by 4 and is not exactly divisible by 100 a year is always a leap year if its number is exactly divisible by 400](day012.md)
