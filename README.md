@@ -14,3 +14,4 @@
 13. [Given three integers, print the least of them.](day013.md)
 14. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs"If the number is a multiple of both 3 and 5, it prints "JugsMugs".Otherwise, it prints the number.](day014.md)
 15. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number](day015.md)
+16. [Read two inputs. The first input is a digit. The second input is a number. Is the digit present in the number? If yes, return True.If no, return False.](day016.md)
