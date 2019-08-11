@@ -15,4 +15,12 @@
 14. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs"If the number is a multiple of both 3 and 5, it prints "JugsMugs".Otherwise, it prints the number.](day014.md)
 15. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number](day015.md)
 16. [Read two inputs. The first input is a digit. The second input is a number. Is the digit present in the number? If yes, return True.If no, return False.](day016.md)
-17.[Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs".If the number is a multiple of 7, it prints "Pugs".If the number is a multiple of both 3 and 5, it prints "JugsMugs".If the number is a multiple of both 3 and 7, it prints "JugsPugs".If the number is a multiple of both 5 and 7, it prints "MugsPugs".If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".Otherwise, it prints the number.](day017.md)
+17. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs".If the number is a multiple of 7, it prints "Pugs".If the number is a multiple of both 3 and 5, it prints "JugsMugs".If the number is a multiple of both 3 and 7, it prints "JugsPugs".If the number is a multiple of both 5 and 7, it prints "MugsPugs".If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".Otherwise, it prints the number.](day017.md)
+18. [Write a program that receives a number on the input.
+  - If the number is a multiple of 3, it prints "Jugs". 
+  - If the number is a multiple of 5, it prints "Mugs".
+  - If the number is a multiple of 7, it prints "Pugs".
+  - If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+  - If the number is a multiple of both 3 and 7, it prints "JugsPugs".
+  - If the number is a multiple of both 5 and 7, it prints "MugsPugs".
+  - If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".Otherwise, it prints the number.LITE REQUIREMENT:Limit your code to use only if statements and not to exceed 4 of them. You are a real winner if you can achieve it using not more than 3 if statements.](day018.md)
